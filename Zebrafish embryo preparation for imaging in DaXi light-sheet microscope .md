@@ -1,9 +1,11 @@
+# Zebrafish embryo preparation for imaging in DaXi light-sheet microscope 
+
 This protocol outlines the steps for preparing zebrafish embryos for imaging in a DaXi 
 light-sheet microscope. The protocol involves dechorionation, embedding in low-gelling 
 temperature agarose, positioning embryos for imaging, removing the agarose surrounding 
 the tail, and setting up time-lapses with tricaine to prevent embryo movement.
 
-Materials:
+## Materials:
 
 - Glass-bottom cell culture dish (35mm Cell Culture Dish with Glass Bottom 20mm – Stellar Scientific)
 - Low-gelling temperature agarose (Sigma, A0701)
@@ -13,7 +15,7 @@ Materials:
 - Embryo-medium solution
 - Tricaine (0.016%)
 
-Protocol:
+## Protocol:
 
 1. Dechorionate embryos in a glass-bottom cell culture dish.
 2. Gently transfer embryos into a 0.7% solution of low-gelling temperature agarose.

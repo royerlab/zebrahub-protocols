@@ -1,10 +1,12 @@
+# Zebrafish embryo preparation for imaging in OpenSiMView light-sheet microscope 
+
 This protocol describes the preparation of zebrafish embryos for imaging in a 
 OpenSimView light-sheet microscope. The embryos are dechorionated, transferred 
 into FEP tubes embedded in low gelling temperature agarose, and mounted in a 
 custom-made sample capillary holder that is placed in a mounting chamber. 
 Filtered embryo water with tricaine is circulated in the chamber for imaging after 15 hpf.
 
-Materials:
+## Materials:
 
 - Embryos
 - Sharp forceps
@@ -19,7 +21,7 @@ Materials:
 - Filtered embryo water
 - 0.016% tricaine
 
-Protocol:
+## Protocol:
 
 1. Gently dechorionate the embryos using a pair of sharp forceps under a binocular dissecting microscope.
 2. Transfer the embryos into FEP tubes embedded in 0.1% low gelling temperature agarose.

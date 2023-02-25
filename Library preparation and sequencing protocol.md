@@ -2,7 +2,8 @@
 
 This experimental protocol outlines the steps to perform single-embryo single-cell RNA sequencing on zebrafish embryos using the Chromium Single Cell Controller and scRNA-seq libraries constructed with the Chromium Next GEM Single Cell 3’ Reagent Kit v3.1 and Single Cell 3’ Reagent Kit v3.1 HT.
 
-Materials:
+## Materials:
+
 - Zebrafish embryos (10 hpf to 10 dpf)
 - Cellometer auto T4 Cell Counter
 - Chromium Single Cell Controller (10x Genomics)
@@ -14,7 +15,8 @@ Materials:
 - NovaSeq run kits with either single or dual index plates
 - PhiX control library
 
-Procedure:
+## Procedure:
+
 1. Prepare single cell suspensions from zebrafish embryos (e.g. conduct protocol above).
 2. Count the cells using the Cellometer auto T4 Cell Counter and adjust the concentration to be between 700-1200 cells/ul.
 3. Process the single cell suspensions through droplet emulsions using Chromium Single Cell Controller according to the manufacturer’s instructions.

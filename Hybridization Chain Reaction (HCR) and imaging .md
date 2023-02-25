@@ -1,10 +1,10 @@
-The protocol involves investigating the spatiotemporal localization of sox2 and tbxta mRNA 
+# The protocol involves investigating the spatiotemporal localization of sox2 and tbxta mRNA 
 transcripts in zebrafish embryos across six developmental stages using RNA in situ hybridization 
 and imaging. Thirty embryos were collected at each stage, dechorionated, fixed, and subjected 
 to RNA in situ hybridization using a probe set, followed by incubation with DAPI and whole-mounting 
 in 80% glycerol before imaging with a confocal microscope.
 
-Materials:
+## Materials:
 
 - Zebrafish embryos at 10, 12, 14, 16, 19 hpf, and 1dpf developmental stages (30 embryos per stage)
 - Pronase solution (1 mg/ml)
@@ -14,7 +14,7 @@ Materials:
 - DAPI solution (1:3000 dilution)
 - 80% glycerol solution
 
-Procedure:
+## Procedure:
 
 1. Collect 30 zebrafish embryos at each of the six developmental stages (10, 12, 14, 16, 19 hpf, and 1dpf).
 2. Dechorionate the embryos using a 1 mg/ml pronase solution for no longer than 90 seconds.

@@ -1,8 +1,11 @@
+# Single-embryo single-cell dissociation protocol
+
 To obtain high-quality data, we developed and optimized a single-embryo single-cell dissociation protocol that varies based on the 10 developmental stages we studied. We used a very gentle dissociation method for early stages, and a harsher method for later stages. Our protocol utilized a combination of chemical and mechanical methods to achieve the highest possible dissociation efficiency while also maximizing cell viability.
 
 All steps should be performed under sterile conditions to prevent contamination. RNA isolation and library preparation should be performed following the manufacturer's instructions.
 
-Materials:
+## Materials:
+
 - Zebrafish embryos
 - 1mg/ml Pronase solution
 - PBS + 2% BSA
@@ -14,7 +17,8 @@ Materials:
 - Cellometer auto T4 cell counter (Nexcelom biosciences)
 - Trypan blue solution
 
-Procedure:
+## Procedure:
+
 1. Dechorionate the zebrafish embryos using 1mg/ml Pronase solution.
 2. Precoat 1.5 ml Eppendorfs with PBS + 2% BSA at room temperature for 15 minutes.
 3. For earlier stages (10 hpf to 1 dpf), dissociate a single embryo in 50 ul of FACSmax solution. For later stages (2 dpf to 10 dpf), dissociate a single embryo in 50 ul of 0.25% Trypsin-collagenase solution.
