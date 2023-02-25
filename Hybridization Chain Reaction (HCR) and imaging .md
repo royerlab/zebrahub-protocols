@@ -24,4 +24,4 @@ in 80% glycerol before imaging with a confocal microscope.
 6. Incubate the embryos with DAPI (1:3000 dilution) for 20 minutes during the first wash step.
 7. Gradually transfer the embryos to an 80% glycerol solution for storage.
 8. Carefully whole mount the embryos in 80% glycerol on a glass slide.
-9. Image the embryos using an Andor Dragonfly confocal microscope.
+9. Image the embryos using a confocal microscope (e.g. Andor Dragonfly).
