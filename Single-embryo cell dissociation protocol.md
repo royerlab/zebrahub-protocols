@@ -1,3 +1,7 @@
+To obtain high-quality data, we developed and optimized a single-embryo single-cell dissociation protocol that varies based on the 10 developmental stages we studied. We used a very gentle dissociation method for early stages, and a harsher method for later stages. Our protocol utilized a combination of chemical and mechanical methods to achieve the highest possible dissociation efficiency while also maximizing cell viability.
+
+All steps should be performed under sterile conditions to prevent contamination. RNA isolation and library preparation should be performed following the manufacturer's instructions.
+
 Materials:
 - Zebrafish embryos
 - 1mg/ml Pronase solution
