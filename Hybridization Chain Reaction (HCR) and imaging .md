@@ -1,4 +1,6 @@
-# The protocol involves investigating the spatiotemporal localization of sox2 and tbxta mRNA 
+# Hybridization Chain Reaction (HCR) and imaging
+
+The protocol involves investigating the spatiotemporal localization of sox2 and tbxta mRNA 
 transcripts in zebrafish embryos across six developmental stages using RNA in situ hybridization 
 and imaging. Thirty embryos were collected at each stage, dechorionated, fixed, and subjected 
 to RNA in situ hybridization using a probe set, followed by incubation with DAPI and whole-mounting 
