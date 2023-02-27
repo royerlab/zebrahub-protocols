@@ -21,7 +21,7 @@ All steps should be performed under sterile conditions to prevent contamination.
 
 1. Dechorionate the zebrafish embryos using 1mg/ml Pronase solution.
 2. Precoat 1.5 ml Eppendorfs with PBS + 2% BSA at room temperature for 15 minutes.
-3. For earlier stages (10 hpf to 1 dpf), dissociate a single embryo in 50 ul of FACSmax solution. For later stages (2 dpf to 10 dpf), dissociate a single embryo in 50 ul of 0.25% Trypsin-collagenase solution.
+3. For embryos between 10 hpf to 1 dpf, dissociate a single embryo in 50 ul of FACSmax solution. For embryos between 2 dpf to 10 dpf, dissociate a single embryo in 50 ul of 0.25% Trypsin-collagenase solution.
 4. Pipette and flick the Eppendorf gently to dissociate the embryo without forming bubbles. 
 5. Centrifuge the eppendorf by gradually increasing the speed from 300 rcf for 2 mins(early stages) to 750 rcf for 7 mins (later stages) at 4C depending on the stage of interest.
 6. Carefully remove the dissociation media without dislocating the pellet. Wash the pellet with 1X PBS + 1% BSA solution.
