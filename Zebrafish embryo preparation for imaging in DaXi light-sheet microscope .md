@@ -21,4 +21,4 @@ the tail, and setting up time-lapses with tricaine to prevent embryo movement.
 2. Gently transfer embryos into a 0.7% solution of low-gelling temperature agarose.
 3. Position embryos at the correct position and angle for imaging using a custom-made capillary.
 4. Once the agarose solidifies, use a dissection knife and forceps to remove the agarose surrounding the tail to permit full development and tail elongation.
-5. Set up time lapses with a gentle flow of fresh and filtered embryo-medium solution with 0.016% tricaine to prevent embryo movement (after 15 hpf)4.
+5. Set up time lapses with a gentle flow of fresh and filtered embryo-medium solution with 0.016% tricaine to prevent embryo movement (after 15 hpf).
