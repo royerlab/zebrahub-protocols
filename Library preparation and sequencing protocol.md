@@ -18,7 +18,7 @@ This experimental protocol outlines the steps to perform single-embryo single-ce
 ## Procedure:
 
 1. Prepare single cell suspensions from zebrafish embryos (e.g. conduct protocol above).
-2. Count the cells using the Cellometer auto T4 Cell Counter and adjust the concentration to be between 700-1200 cells/ul.
+2. Count the cells using the Cellometer auto T4 Cell Counter and adjust the concentration to be between 700-1200 cells/µl.
 3. Process the single cell suspensions through droplet emulsions using Chromium Single Cell Controller according to the manufacturer’s instructions.
 4. Construct scRNA-seq libraries using Chromium Next GEM Single Cell 3’ Reagent Kit v3.1 for 10 hpf to 1 dpf and Single Cell 3’ Reagent Kit v3.1 HT for 2 dpf to 10 dpf, following the manufacturer’s instructions.
 5. Load single cells into each channel of the Chromium Single Cell Controller with the appropriate amount of diluted RT master mix based on the measured cell concentration and targeted cell recovery per sample.
